@@ -50,7 +50,6 @@ nav a {
     font-size: 18px;
     padding: 8px 12px;
     border-radius: 6px;
-    transition: background 0.3s;
 }
 
 nav a:hover {
@@ -202,3 +201,4 @@ footer a {
 footer a:hover {
     background-color: #013220;
 }
+
